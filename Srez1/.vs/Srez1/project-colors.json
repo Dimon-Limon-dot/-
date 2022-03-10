@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a1bf1fe3-92f8-4f63-b247-a962437bb7ed": {
+      "ProjectGuid": "a1bf1fe3-92f8-4f63-b247-a962437bb7ed",
+      "DisplayName": "Srez1",
+      "ColorIndex": 0
+    },
+    "971600e0-3be7-42cc-b451-28a3a081b690": {
+      "ProjectGuid": "971600e0-3be7-42cc-b451-28a3a081b690",
+      "DisplayName": "MainClass",
+      "ColorIndex": 1
+    },
+    "7eb69960-fc00-476c-b662-1263df5068e8": {
+      "ProjectGuid": "7eb69960-fc00-476c-b662-1263df5068e8",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 2
+    },
+    "fc89d510-e124-46d8-a6f5-d06e3b24c4af": {
+      "ProjectGuid": "fc89d510-e124-46d8-a6f5-d06e3b24c4af",
+      "DisplayName": "ConsoleApp2",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,11 @@
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\bin\Debug\MainClass.dll
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\bin\Debug\MainClass.pdb
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CopyComplete
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Пользователь\Documents\Srez1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

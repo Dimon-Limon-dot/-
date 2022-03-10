@@ -1,0 +1,6 @@
+C:\Users\Пользователь\Documents\Srez1\MainClass\bin\Debug\MainClass.dll
+C:\Users\Пользователь\Documents\Srez1\MainClass\bin\Debug\MainClass.pdb
+C:\Users\Пользователь\Documents\Srez1\MainClass\obj\Debug\MainClass.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Srez1\MainClass\obj\Debug\MainClass.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Srez1\MainClass\obj\Debug\MainClass.dll
+C:\Users\Пользователь\Documents\Srez1\MainClass\obj\Debug\MainClass.pdb
